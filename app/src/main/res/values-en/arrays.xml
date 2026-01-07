@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_options">
+        <item>Country</item>
+        <item>Indonesia</item>
+        <item>Italy</item>
+        <item>Malaysia</item>
+        <item>USA</item>
+    </string-array>
+</resources>

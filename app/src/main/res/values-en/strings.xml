@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TagihanKu</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <!-- Splash -->
+    <string name="splash_title">TagihanKu!\nApplication</string>
+
+    <!-- Language -->
+    <string name="select_language_title">SELECT YOUR\nLANGUAGE</string>
+    <string name="lang_indonesia">Indonesia</string>
+    <string name="lang_english">English</string>
+    <string name="choose_first">Please choose a language</string>
+
+    <!-- Location -->
+    <string name="location_title">CHOOSE YOUR\nLOCATION</string>
+    <string name="country_placeholder">Country</string>
+    <string name="auto_detect_location">Auto Detect Location</string>
+
+    <string name="choose_country_first">Please select a country (or tap Auto Detect Location)</string>
+    <string name="detecting_location">Detecting location...</string>
+    <string name="detect_failed">Failed to detect. Please select manually.</string>
+    <string name="detected_country_only">Detected (country): %1$s</string>
+    <string name="detected_format">Detected: %1$s, %2$s</string>
+    <string name="location_permission_denied">Location permission denied. Please select manually.</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">WELCOME</string>
+    <string name="detected_location">Detected Location:\n%1$s, %2$s</string>
+    <string name="detected_location_preview">Detected Location:\n-, Indonesia</string>
+    <string name="flag">Flag</string>
+
+    <!-- LOGIN: key lama & baru -->
+    <string name="login">Login</string>
+    <string name="login_title">Login</string>
+    <string name="login_button">Login</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_empty">Username and password are required</string>
+
+    <!-- INPUT TAGIHAN: key lama & baru -->
+    <string name="add_bill_title">Add Bill</string>
+    <string name="input_title">Add Bill</string>
+
+    <string name="continue_next">Continue</string>
+    <string name="continue_button">Continue</string>
+
+    <string name="bill_name_hint">Bill Name</string>
+    <string name="amount_hint">Amount</string>
+    <string name="note_hint">Note (optional)</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="amount_required">Amount is required</string>
+    <string name="amount_must_number">Amount must be a number</string>
+    <string name="cancelled">Cancelled</string>
+
+    <!-- History -->
+    <string name="history_title">Payment\nHistory</string>
+    <string name="choose_month">Choose Month</string>
+    <string name="empty_history">No history yet.</string>
+
+
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="total_this_month">Total Bills This Month:</string>
+    <string name="already_paid">Already paid:</string>
+    <string name="check_status">Check My Bill Status</string>
+    <string name="check_status_toast">Status check feature is not built yet 🙂</string>
+    <string name="logout">Logout</string>
+
+    <!-- Format -->
+    <string name="rp_format">Rp%1$s</string>
+
+    <string name="save_bill">Save TagihanKu</string>
+    <string name="paid_at_format">Paid: %1$s</string>
+    <string name="saved">Saved!</string>
+    <string name="no_history">No history yet.</string>
+    <string name="add_one_bill_first">Please add at least 1 bill first.</string>
+
+    <string name="fill_required">Bill name and amount are required</string>
+
+
+
+</resources>

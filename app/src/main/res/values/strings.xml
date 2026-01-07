@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TagihanKu</string>
+
+    <!-- Common -->
+    <string name="back">Kembali</string>
+    <string name="next">Next</string>
+
+    <!-- Splash -->
+    <string name="splash_title">TagihanKu!\nApplication</string>
+
+    <!-- Language -->
+    <string name="select_language_title">PILIH\nBAHASA</string>
+    <string name="lang_indonesia">Indonesia</string>
+    <string name="lang_english">English</string>
+    <string name="choose_first">Pilih bahasa dulu ya</string>
+
+    <!-- Location -->
+    <string name="location_title">PILIH LOKASI\nANDA</string>
+    <string name="country_placeholder">Negara</string>
+    <string name="auto_detect_location">Deteksi Lokasi Otomatis</string>
+
+    <string name="choose_country_first">Pilih negara dulu ya (atau klik Deteksi Lokasi Otomatis)</string>
+    <string name="detecting_location">Mendeteksi lokasi...</string>
+    <string name="detect_failed">Gagal mendeteksi. Pilih manual ya.</string>
+    <string name="detected_country_only">Terdeteksi (negara): %1$s</string>
+    <string name="detected_format">Terdeteksi: %1$s, %2$s</string>
+    <string name="location_permission_denied">Izin lokasi ditolak. Pilih manual ya.</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">SELAMAT DATANG</string>
+    <string name="detected_location">Lokasi Terdeteksi:\n%1$s, %2$s</string>
+    <string name="detected_location_preview">Lokasi Terdeteksi:\n-, Indonesia</string>
+    <string name="flag">Bendera</string>
+
+    <!-- LOGIN: key lama & baru -->
+    <string name="login">Login</string>
+    <string name="login_title">Login</string>
+    <string name="login_button">Login</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_empty">Username &amp; password wajib diisi</string>
+
+    <!-- INPUT TAGIHAN: key lama & baru -->
+    <string name="add_bill_title">Tambah Tagihan</string>
+    <string name="input_title">Tambah Tagihan</string>
+
+    <string name="continue_next">Lanjut</string>
+    <string name="continue_button">Lanjut</string>
+
+    <string name="bill_name_hint">Nama Tagihan</string>
+    <string name="amount_hint">Nominal</string>
+    <string name="note_hint">Catatan (opsional)</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="amount_required">Nominal wajib diisi</string>
+    <string name="amount_must_number">Nominal harus angka</string>
+    <string name="cancelled">Dibatalkan</string>
+
+    <!-- History -->
+    <string name="history_title">Riwayat\nPembayaran</string>
+    <string name="choose_month">Pilih Bulan</string>
+    <string name="empty_history">Belum ada riwayat.</string>
+
+
+    <!-- Profile -->
+    <string name="profile_title">Profil</string>
+    <string name="total_this_month">Total Tagihan Bulan Ini:</string>
+    <string name="already_paid">Sudah dibayar:</string>
+    <string name="check_status">Cek Status TagihanKu</string>
+    <string name="check_status_toast">Fitur cek status belum dibuat ya 🙂</string>
+    <string name="logout">Keluar</string>
+
+    <!-- Format -->
+    <string name="rp_format">Rp%1$s</string>
+
+    <string name="save_bill">Simpan TagihanKu</string>
+    <string name="paid_at_format">Dibayar: %1$s</string>
+    <string name="saved">Tersimpan!</string>
+    <string name="no_history">Belum ada riwayat.</string>
+    <string name="add_one_bill_first">Tambah minimal 1 tagihan dulu ya.</string>
+
+    <string name="fill_required">Nama tagihan dan nominal wajib diisi</string>
+
+
+</resources>
